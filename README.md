@@ -79,7 +79,47 @@ Focus:
 
 ---
 
+<<<<<<< HEAD
 # Projects
+=======
+# What I'm Currently Building
+
+* **Dotfiles & system configs**
+* **Small C++ CLI utilities**
+* **Python tools for AI workflows**
+* Experiments in **minimal operating environments**
+
+Long term interest:
+
+> Designing a personal **custom OS ecosystem** and minimal computing stack.
+
+---
+
+# Fun Facts
+
+* I intentionally **break configs to understand them**.
+* I prefer **minimal tools that do one thing well**.
+* I believe **open source is the backbone of innovation**.
+* I run Arch Linux — *yes, btw.*
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=transparent&hide_border=true">
+</p>
+
+---
+
+# Example Workflow
+
+Typical setup steps on a new system:
+>>>>>>> 4844c88 (add banner)
 
 ```bash
 neo@arch:~$ ls projects
