@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="assets/banner.svg">
+<img src="assets/banner.svg" width="850">
 </p>
 
 <h2 align="center">Bikram Gole — AURA farmer</h2>
@@ -13,24 +13,26 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ---
 
-# About Me
+# About
 
-I like **minimal systems that do exactly what they should — nothing more**.
+I like **minimal systems that are simple, fast, and understandable**.
 
-I spend most of my time experimenting with:
+Most of my work revolves around:
 
 * Linux customization
-* lightweight development tools
-* small CLI utilities
-* AI-assisted workflows
+* small CLI tools
+* experimenting with AI tools
+* building efficient development workflows
 
-I learn primarily through **AI tools and YouTube deep dives**, then apply the ideas by building small experiments.
+I learn primarily through **AI assistants and YouTube deep dives**, then test ideas by building small projects.
 
-Software should be **free — as in freedom**.
+My philosophy is simple:
+
+> Software should be **free — as in freedom.**
 
 ---
 
-# Tech I Use
+# Tech Stack
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux\&logoColor=white\&style=flat-square)
 ![Fish Shell](https://img.shields.io/badge/Shell-Fish-2bb24c?logo=fish\&logoColor=white\&style=flat-square)
@@ -39,28 +41,29 @@ Software should be **free — as in freedom**.
 ![AI Tools](https://img.shields.io/badge/AI-Tools-purple?style=flat-square)
 ![Minimalism](https://img.shields.io/badge/Design-Minimalist-lightgrey?style=flat-square)
 
-Core environment:
+Environment:
 
-* **Arch Linux**
-* **Fish shell**
-* **QuickShell DMS (Dank Material Shell)**
-* **C++**
-* **Python**
-* **Git**
-* **Micro editor**
-* **mpv**
-* **LibreWolf**
+* Arch Linux
+* Fish shell
+* QuickShell DMS (Dank Material Shell)
+* Micro editor
+* mpv
+* LibreWolf
+
+Languages:
+
+* C++
+* Python
 
 ---
 
-# Terminal Snapshot
+# Terminal
 
-```
+```bash
 neo@arch:~$ fastfetch
 
 OS: Arch Linux
 Shell: fish
-Terminal: foot
 WM: Hyprland
 Shell UI: QuickShell DMS
 
@@ -76,29 +79,37 @@ Focus:
 
 ---
 
-# What I'm Currently Building
+# Projects
 
-* **Dotfiles & system configs**
-* **Small C++ CLI utilities**
-* **Python tools for AI workflows**
-* Experiments in **minimal operating environments**
+```bash
+neo@arch:~$ ls projects
+```
 
-Long term interest:
+* **dotfiles**
+  Personal Linux configuration and environment setup.
 
-> Designing a personal **custom OS ecosystem** and minimal computing stack.
+* **cpp-utils**
+  Small performance-focused CLI utilities written in C++.
 
----
-
-# Fun Facts
-
-* I intentionally **break configs to understand them**.
-* I prefer **minimal tools that do one thing well**.
-* I believe **open source is the backbone of innovation**.
-* I run Arch Linux — *yes, btw.*
+* **ai-scripts**
+  Python experiments with AI workflows and automation.
 
 ---
 
-## GitHub Stats
+# Philosophy
+
+```bash
+neo@arch:~$ cat philosophy.txt
+```
+
+Build simple systems.
+Understand them deeply.
+Automate repetitive tasks.
+Stay curious.
+
+---
+
+# GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&hide_border=true&theme=radical">
@@ -107,39 +118,37 @@ Long term interest:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&hide_border=true&theme=radical">
 </p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=DevXtechnic&theme=radical&hide_border=true">
+</p>
+
 ---
 
-# Example Workflow
-
-Typical setup steps on a new system:
+# Contact
 
 ```bash
-# update system
-sudo pacman -Syu
-
-# install tools
-sudo pacman -S git fish micro fastfetch mpv librewolf
-
-# python tooling
-sudo pacman -S python-pipx
-pipx ensurepath
+neo@arch:~$ contact
 ```
-
----
-
-# Connect
-
-Website
-https://DevXtechnic.github.io
 
 Email
 [Bikramgole.genius@keemail.me](mailto:Bikramgole.genius@keemail.me)
 
+Website
+https://DevXtechnic.github.io
+
+GitHub
+https://github.com/DevXtechnic
+
 ---
 
-# Philosophy
+# Fun Facts
 
-> Build simple systems.
-> Understand them deeply.
-> Automate the boring parts.
-> Stay curious.
+* I intentionally **break configs to understand them better**.
+* I prefer **minimal tools that do one thing well**.
+* Most of what I learn comes from **AI tools and YouTube**.
+* And yes…
+
+```
+I use Arch btw
+```
