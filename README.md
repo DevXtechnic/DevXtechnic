@@ -119,6 +119,10 @@ Stay curious.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=transparent&hide_border=true">
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=DevXtechnic&theme=transparent&hide_border=true">
+</p>
+
 ---
 
 # Contact
