@@ -98,7 +98,7 @@ Long term interest:
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&hide_border=true&theme=radical">
@@ -107,7 +107,6 @@ Long term interest:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&hide_border=true&theme=radical">
 </p>
-
 ---
 
 # Example Workflow
