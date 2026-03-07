@@ -192,3 +192,7 @@ https://github.com/DevXtechnic
 ```
 I use Arch btw
 ```
+
+## Contribution Snake
+
+![snake gif](https://github.com/DevXtechnic/DevXtechnic/blob/output/github-contribution-grid-snake.svg)
