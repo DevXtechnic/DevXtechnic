@@ -104,15 +104,10 @@ Long term interest:
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400">
-</p>
+<p align="left"><img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/main/github-metrics.svg" /></p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=transparent&hide_border=true">
-</p>
 
 ---
 
