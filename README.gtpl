@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="assets/banner.svg" width="850">
+<img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/main/assets/banner.svg" width="850">
 </p>
 
 <h2 align="center">Bikram Gole — AURA farmer</h2>
@@ -18,7 +18,6 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 I like **minimal systems that are simple, fast, and understandable**.
 
 Most of my work revolves around:
-
 * Linux customization
 * small CLI tools
 * experimenting with AI tools
@@ -27,33 +26,28 @@ Most of my work revolves around:
 I learn primarily through **AI assistants and YouTube deep dives**, then test ideas by building small projects.
 
 My philosophy is simple:
-
 > Software should be **free — as in freedom.**
 
 ---
 
 # Tech Stack
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux\&logoColor=white\&style=flat-square)
-![Fish Shell](https://img.shields.io/badge/Shell-Fish-2bb24c?logo=fish\&logoColor=white\&style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white\&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white\&style=flat-square)
+<p align="center">
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=flat-square)
+![Fish Shell](https://img.shields.io/badge/Shell-Fish-2bb24c?logo=fish&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![AI Tools](https://img.shields.io/badge/AI-Tools-purple?style=flat-square)
 ![Minimalism](https://img.shields.io/badge/Design-Minimalist-lightgrey?style=flat-square)
+</p>
 
-Environment:
-
+**Environment:**
 * Arch Linux
 * Fish shell
-* QuickShell DMS (Dank Material Shell)
+* QuickShell DMS
 * Micro editor
 * mpv
 * LibreWolf
-
-Languages:
-
-* C++
-* Python
 
 ---
 
@@ -86,52 +80,35 @@ Focus:
 * **Python tools for AI workflows**
 * Experiments in **minimal operating environments**
 
-Long term interest:
-
-> Designing a personal **custom OS ecosystem** and minimal computing stack.
-
 ---
 
-# Projects
-
-```bash
-neo@arch:~$ ls projects
-```
-
-* **dotfiles**
-  Personal Linux configuration and environment setup.
-
-* **cpp-utils**
-  Small performance-focused CLI utilities written in C++.
-
-* **ai-scripts**
-  Python experiments with AI workflows and automation.
-
----
-
-# Philosophy
-
-```bash
-neo@arch:~$ cat philosophy.txt
-```
-
-Build simple systems.
-Understand them deeply.
-Automate repetitive tasks.
-Stay curious.
-
----
-
-## GitHub Stats
+### GitHub Stats
 
 <p align="left"><img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
-<!--START_SECTION:activity-->
-- [DevXtechnic/DevXtechnic](https://github.com/DevXtechnic/DevXtechnic) - Minimalist Arch Linux Profile README
-<!--END_SECTION:activity-->
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
+{{- end}}
+
+### 🌱 My latest projects
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+### 🔨 My recent Pull Requests
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}})
+{{- end}}
+
+### ⭐ Recent Stars
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
+{{- end}}
 
 ---
+
+## GitHub Detailed Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400">
@@ -153,14 +130,9 @@ Stay curious.
 neo@arch:~$ contact
 ```
 
-Email
-[Bikramgole.genius@keemail.me](mailto:Bikramgole.genius@keemail.me)
-
-Website
-https://DevXtechnic.github.io
-
-GitHub
-https://github.com/DevXtechnic
+📧 [Bikramgole.genius@keemail.me](mailto:Bikramgole.genius@keemail.me)
+🌐 [DevXtechnic.github.io](https://DevXtechnic.github.io)
+🐙 [GitHub](https://github.com/DevXtechnic)
 
 ---
 
@@ -179,4 +151,3 @@ I use Arch btw
 
 ![snake gif](https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/output/github-snake.svg#gh-light-mode-only)
 ![snake gif](https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/output/github-snake-dark.svg#gh-dark-mode-only)
-
