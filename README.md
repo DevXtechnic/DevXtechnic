@@ -17,7 +17,7 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 
 ---
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1643514741/7978/terminal.png?1643514741" width="30"/> About Me
+# 💻 About Me
 
 ```bash
 neo@arch:~$ cat about_me.txt
@@ -36,7 +36,7 @@ I usually learn through documentation, AI assistants, and deep technical videos,
 
 ---
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1643514936/16362/code.png?1643514936" width="30"/> Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -49,7 +49,7 @@ I usually learn through documentation, AI assistants, and deep technical videos,
 
 ---
 
-# <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"/> System Info
+# 🖥️ System Info
 
 ```bash
 neo@arch:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
@@ -66,7 +66,7 @@ neo@arch:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 
 ---
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1643515064/16382/rocket.png?1643515064" width="30"/> Current Status
+# 🚀 Current Status
 
 ```bash
 neo@arch:~$ cat current_focus.txt
@@ -78,7 +78,7 @@ neo@arch:~$ cat current_focus.txt
 
 ---
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1643514558/6393/octocat-wave.gif?1643514558" width="30"/> Projects
+# 📂 Projects
 
 ```bash
 neo@arch:~$ ls -1 ~/projects
@@ -95,13 +95,13 @@ neo@arch:~$ ls -1 ~/projects
 
 ---
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1643514707/12711/chart_with_upwards_trend.png?1643514707" width="30"/> GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
 
 | **GitHub Stats** | **Streak Stats** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&theme=react&hide_border=false&include_all_commits=false&count_private=false" width="400" /> | <img src="https://nirzak-streak-stats.vercel.app/?user=DevXtechnic&theme=react&hide_border=false" width="400" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&theme=react&hide_border=false&include_all_commits=false&count_private=false" width="400" /> | <img src="https://streak-stats.demolab.com?user=DevXtechnic&theme=react&hide_border=false" width="400" /> |
 
 <br/>
 
@@ -116,7 +116,7 @@ neo@arch:~$ ls -1 ~/projects
 
 ---
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1643514800/8051/hammer_and_wrench.png?1643514800" width="25"/> Recent Activity
+### 🔨 Recent Activity
 <!--START_SECTION:activity-->
 (Updated dynamically by GitHub Actions)
 <!--END_SECTION:activity-->
@@ -126,7 +126,7 @@ neo@arch:~$ ls -1 ~/projects
 
 ---
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1643514963/16377/nerd_face.png?1643514963" width="30"/> Fun Facts
+# 🐧 Fun Facts
 
 ```bash
 neo@arch:~$ fortune | cowsay -f tux
