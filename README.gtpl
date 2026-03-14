@@ -11,143 +11,166 @@
 Minimalist systems • Arch Linux • C++ • Python • AI tools
 </p>
 
----
-
-# About
-
-I like **minimal systems that are simple, fast, and understandable**.
-
-Most of my work revolves around:
-* Linux customization
-* small CLI tools
-* experimenting with AI tools
-* building efficient development workflows
-
-I learn primarily through **AI assistants and YouTube deep dives**, then test ideas by building small projects.
-
-My philosophy is simple:
-> Software should be **free — as in freedom.**
-
----
-
-# Tech Stack
-
 <p align="center">
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=flat-square)
-![Fish Shell](https://img.shields.io/badge/Shell-Fish-2bb24c?logo=fish&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![AI Tools](https://img.shields.io/badge/AI-Tools-purple?style=flat-square)
-![Minimalism](https://img.shields.io/badge/Design-Minimalist-lightgrey?style=flat-square)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1471849836931190945) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikramgole.genius@keemail.me) 
 </p>
 
-**Environment:**
-* Arch Linux
-* Fish shell
-* QuickShell DMS
-* Micro editor
-* mpv
-* LibreWolf
-
 ---
 
-# Terminal
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514741/7978/terminal.png?1643514741" width="30"/> About Me
 
 ```bash
-neo@arch:~$ fastfetch
+neo@arch:~$ cat about_me.txt
+```
+I enjoy building **minimal systems** that are simple, efficient, and understandable.
 
-OS: Arch Linux
-Shell: fish
-WM: Hyprland
-Shell UI: QuickShell DMS
+Most of my work revolves around:
+* **Linux customization** (making it simple & fast)
+* **Small CLI utilities** (automating the mundane)
+* **AI experiments** (building efficient workflows)
+* **Development** (C++, Python, Bash)
 
-Languages:
-- C++
-- Python
+I usually learn through documentation, AI assistants, and deep technical videos, then apply ideas by building small practical tools.
 
-Focus:
-- AI tools
-- minimal systems
-- Linux customization
+> **"Software should be free — as in freedom."**
+
+---
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514936/16362/code.png?1643514936" width="30"/> Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### Web & Frameworks
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=flat-square&logo=tampermonkey&logoColor=white)
+
+---
+
+# <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"/> System Info
+
+```bash
+neo@arch:~$ fastfetch --structure OS:WM:Shell:Editor:Languages:Focus
 ```
 
+| Component | Detail |
+| :--- | :--- |
+| **OS** | Arch Linux |
+| **WM** | Hyprland |
+| **Shell** | fish |
+| **Editor** | micro |
+| **Langs** | C++, Python |
+| **Focus** | AI tools, Linux customization, minimal computing |
+
 ---
 
-# What I'm Currently Building
+# <img src="https://emojis.slackmojis.com/emojis/images/1643515064/16382/rocket.png?1643515064" width="30"/> Current Status
 
-* **Dotfiles & system configs**
-* **Small C++ CLI utilities**
-* **Python tools for AI workflows**
-* Experiments in **minimal operating environments**
+```bash
+neo@arch:~$ cat current_focus.txt
+```
+* **Dotfiles:** Crafting the perfect minimal Arch environment.
+* **CLI Tools:** Writing small, performance-focused utilities in C++.
+* **AI Workflows:** Automating repetitive tasks with Python scripts.
+* **Long Term:** Designing a personal minimal OS ecosystem.
 
 ---
 
-### GitHub Stats
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514558/6393/octocat-wave.gif?1643514558" width="30"/> Projects
 
-<p align="left"><img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/main/github-metrics.svg" /></p>
+```bash
+neo@arch:~$ ls -1 ~/projects
+```
 
-### 👷 Check out what I'm currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
-{{- end}}
+* **[dotfiles](https://github.com/DevXtechnic/dotfiles)**
+  > Personal Arch Linux configuration and development environment.
 
-### 🌱 My latest projects
+* **[cpp-utils](https://github.com/DevXtechnic/cpp-utils)**
+  > Small performance-focused CLI utilities written in C++.
+
+* **[ai-scripts](https://github.com/DevXtechnic/ai-scripts)**
+  > Python automation experiments for AI workflows.
+
+---
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514707/12711/chart_with_upwards_trend.png?1643514707" width="30"/> GitHub Stats
+
+<div align="center">
+
+| **GitHub Stats** | **Streak Stats** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&theme=react&hide_border=false&include_all_commits=false&count_private=false" width="400" /> | <img src="https://nirzak-streak-stats.vercel.app/?user=DevXtechnic&theme=react&hide_border=false" width="400" /> |
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+<br/>
+
+### 🏆 Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=DevXtechnic&theme=react&no-frame=false&no-bg=false&margin-w=4" />
+
+</div>
+
+---
+
+### <img src="https://emojis.slackmojis.com/emojis/images/1643514800/8051/hammer_and_wrench.png?1643514800" width="25"/> Recent Activity
+<!--START_SECTION:activity-->
+(Updated dynamically by GitHub Actions)
+<!--END_SECTION:activity-->
+
+### 🌱 Latest Projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-### 🔨 My recent Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}})
-{{- end}}
-
-### ⭐ Recent Stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
-{{- end}}
-
 ---
 
-## GitHub Detailed Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=transparent&hide_border=true">
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=DevXtechnic&theme=transparent&hide_border=true">
-</p>
-
----
-
-# Contact
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514963/16377/nerd_face.png?1643514963" width="30"/> Fun Facts
 
 ```bash
-neo@arch:~$ contact
+neo@arch:~$ fortune | cowsay -f tux
+ _______________________________________
+/ I intentionally break configs to      \
+| understand them better. I prefer      |
+| minimal tools that do one thing well. |
+|                                       |
+\ And yes... I use Arch btw.            /
+ ---------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
 ```
 
-📧 [Bikramgole.genius@keemail.me](mailto:Bikramgole.genius@keemail.me)
-🌐 [DevXtechnic.github.io](https://DevXtechnic.github.io)
-🐙 [GitHub](https://github.com/DevXtechnic)
+### ✍️ Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
 
 ---
 
-# Fun Facts
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/output/github-snake.svg#gh-light-mode-only">
+<img src="https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/output/github-snake-dark.svg#gh-dark-mode-only">
+</p>
 
-* I intentionally **break configs to understand them better**.
-* I prefer **minimal tools that do one thing well**.
-* Most of what I learn comes from **AI tools and YouTube**.
-* And yes…
+---
+<p align="center">
+[![](https://visitcount.itsvg.in/api?id=DevXtechnic&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
 
-```
-I use Arch btw
-```
+## 💰 Support My Work
+<p align="center">
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bikramgole.genius@gmail.com) 
+</p>
 
-## Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/output/github-snake.svg#gh-light-mode-only)
-![snake gif](https://raw.githubusercontent.com/DevXtechnic/DevXtechnic/output/github-snake-dark.svg#gh-dark-mode-only)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
