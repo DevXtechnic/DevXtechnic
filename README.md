@@ -11,9 +11,7 @@
 Minimalist systems • Arch Linux • C++ • Python • AI tools
 </p>
 
-<p align="center">
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1471849836931190945) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikramgole.genius@keemail.me) 
-</p>
+[![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1471849836931190945) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikramgole.genius@keemail.me)
 
 ---
 
@@ -167,8 +165,6 @@ neo@arch:~$ fortune | cowsay -f tux
 </p>
 
 ## 💰 Support My Work
-<p align="center">
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bikramgole.genius@gmail.com) 
-</p>
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bikramgole.genius@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
