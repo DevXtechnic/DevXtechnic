@@ -118,13 +118,17 @@ neo@arch:~$ ls -1 ~/projects
 
 ### 🔨 Recent Activity
 <!--START_SECTION:activity-->
-(Updated dynamically by GitHub Actions)
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
 <!--END_SECTION:activity-->
 
 ### 🌱 Latest Projects
+<!--START_SECTION:projects-->
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+<!--END_SECTION:projects-->
 
 ---
 
