@@ -108,7 +108,9 @@ neo@arch:~$ ls -1 ~/projects
 <br/>
 
 ### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=DevXtechnic&theme=react&no-frame=false&no-bg=false&margin-w=4" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevXtechnic&theme=algolia&no-frame=true&margin-w=10" />
+</p>
 
 </div>
 
