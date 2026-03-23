@@ -108,9 +108,7 @@ neo@arch:~$ ls -1 ~/projects
 <br/>
 
 ### 🏆 Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-profile-trophy-git-masterryx.vercel.app/?username=DevXtechnic" />
 
 </div>
 
