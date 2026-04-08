@@ -17,6 +17,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - uses: muesli/readme-scribe@v0.1
         env:
@@ -25,8 +27,22 @@ jobs:
           template: "README.gtpl"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "Update README.md"
-          commit_options: "--no-verify"
-          skip_dirty_check: false
+      - name: Commit README
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "Update README.md" --no-verify
+            for _ in 1 2 3; do
+              git pull --rebase origin main || true
+              if git push; then
+                exit 0
+              fi
+              sleep 2
+            done
+            echo "Failed to push after retries." >&2
+            exit 1
+          else
+            echo "No README changes; skipping commit."
+          fi
