@@ -11,7 +11,9 @@
 Minimalist systems • Arch Linux • C++ • Python • AI tools
 </p>
 
-[![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1471849836931190945) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikramgole.genius@keemail.me)
+<p align="center">
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1471849836931190945) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikramgole.genius@keemail.me) 
+</p>
 
 ---
 
@@ -108,19 +110,30 @@ neo@arch:~$ ls -1 ~/projects
 <br/>
 
 ### 🏆 Trophies
-<img src="https://github-profile-trophy-git-masterryx.vercel.app/?username=DevXtechnic" />
+<img src="https://github-profile-trophy.vercel.app/?username=DevXtechnic&theme=react&no-frame=false&no-bg=false&margin-w=4" />
 
 </div>
 
 ---
 
 ### 🔨 Recent Activity
-<!--START_SECTION:activity-->
-(Updated dynamically by GitHub Actions)
-<!--END_SECTION:activity-->
+
+
+- [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse) -  (3 weeks ago)
+- [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾 (1 month ago)
+- [DevXtechnic/Ytdaily](https://github.com/DevXtechnic/Ytdaily) - High-performance, automated YouTube feed downloader with TUI, SponsorBlock, and parallel download support. (1 month ago)
+- [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection. (2 months ago)
+
 
 ### 🌱 Latest Projects
-(Updated dynamically by GitHub Actions)
+
+
+- [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse) - 
+- [DevXtechnic/hyprland-cava-underlay](https://github.com/DevXtechnic/hyprland-cava-underlay) - A Hyprland setup that embeds Cava as a transparent, audio-reactive underlay behind windows—because having music bars behind everything is cooler than being productive.
+- [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
+- [DevXtechnic/Ytdaily](https://github.com/DevXtechnic/Ytdaily) - High-performance, automated YouTube feed downloader with TUI, SponsorBlock, and parallel download support.
+- [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection.
+
 
 ---
 
@@ -161,10 +174,12 @@ neo@arch:~$ fortune | cowsay -f tux
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevXtechnic&label=Profile%20views&color=0e75b6&style=flat" />
+[![](https://visitcount.itsvg.in/api?id=DevXtechnic&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 ## 💰 Support My Work
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bikramgole.genius@gmail.com)
+<p align="center">
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bikramgole.genius@gmail.com) 
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
