@@ -11,9 +11,7 @@
 Minimalist systems • Arch Linux • C++ • Python • AI tools
 </p>
 
-<p align="center">
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1471849836931190945) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikramgole.genius@keemail.me) 
-</p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1471849836931190945) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikramgole.genius@keemail.me)
 
 ---
 
@@ -110,7 +108,7 @@ neo@arch:~$ ls -1 ~/projects
 <br/>
 
 ### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=DevXtechnic&theme=react&no-frame=false&no-bg=false&margin-w=4" />
+<img src="https://profile-trophy.vercel.app/?username=DevXtechnic&theme=react&no-frame=false&no-bg=false&margin-w=4" />
 
 </div>
 
@@ -172,9 +170,5 @@ neo@arch:~$ fortune | cowsay -f tux
 [![](https://visitcount.itsvg.in/api?id=DevXtechnic&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
-## 💰 Support My Work
-<p align="center">
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bikramgole.genius@gmail.com) 
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
