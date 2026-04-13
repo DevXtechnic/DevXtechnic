@@ -114,7 +114,7 @@ neo@arch:~$ ls -1 ~/projects
 ### 🔨 Recent Activity
 
 
-- [DevXtechnic/fish-prompt](https://github.com/DevXtechnic/fish-prompt) -  (1 day ago)
+- [DevXtechnic/fish-prompt](https://github.com/DevXtechnic/fish-prompt) - My personal Fish shell prompt configuration using Oh My Posh, featuring powerline segments and Arch Linux styling. (today)
 - [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse) -  (1 month ago)
 - [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾 (1 month ago)
 - [DevXtechnic/Ytdaily](https://github.com/DevXtechnic/Ytdaily) - High-performance, automated YouTube feed downloader with TUI, SponsorBlock, and parallel download support. (1 month ago)
@@ -124,7 +124,7 @@ neo@arch:~$ ls -1 ~/projects
 ### 🌱 Latest Projects
 
 
-- [DevXtechnic/fish-prompt](https://github.com/DevXtechnic/fish-prompt) - 
+- [DevXtechnic/fish-prompt](https://github.com/DevXtechnic/fish-prompt) - My personal Fish shell prompt configuration using Oh My Posh, featuring powerline segments and Arch Linux styling.
 - [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse) - 
 - [DevXtechnic/hyprland-cava-underlay](https://github.com/DevXtechnic/hyprland-cava-underlay) - A Hyprland setup that embeds Cava as a transparent, audio-reactive underlay behind windows—because having music bars behind everything is cooler than being productive.
 - [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾
@@ -174,7 +174,6 @@ neo@arch:~$ fortune | cowsay -f tux
     <img src="https://visitcount.itsvg.in/api?id=DevXtechnic&icon=0&color=0" alt="Visit Count" />
   </a>
 </p>
-
 
 
 
