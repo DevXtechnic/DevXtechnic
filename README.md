@@ -96,16 +96,16 @@ neo@arch:~$ ls -1 ~/projects
 
 | **GitHub Stats** | **Streak Stats** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=radical&count_private=true" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevXtechnic&theme=radical" width="400" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=radical" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevXtechnic&theme=radical" width="400" /> |
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=radical&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=radical" />
 
 <br/>
 
 ### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=DevXtechnic&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=DevXtechnic&theme=radical" />
 
 </div>
 
@@ -160,7 +160,7 @@ neo@arch:~$ fortune | cowsay -f tux
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevXtechnic&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DevXtechnic&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 
