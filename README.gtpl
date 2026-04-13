@@ -96,16 +96,16 @@ neo@arch:~$ ls -1 ~/projects
 
 | **GitHub Stats** | **Streak Stats** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&theme=react&hide_border=false&include_all_commits=false&count_private=false" width="400" /> | <img src="https://streak-stats.demolab.com?user=DevXtechnic&theme=react&hide_border=false" width="400" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=DevXtechnic&show_icons=true&theme=radical&count_private=true" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevXtechnic&theme=radical" width="400" /> |
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXtechnic&layout=compact&theme=radical&hide_border=false" />
 
 <br/>
 
 ### 🏆 Trophies
-<img src="https://profile-trophy.vercel.app/?username=DevXtechnic&theme=react&no-frame=false&no-bg=false&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=DevXtechnic&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 
 </div>
 
@@ -117,13 +117,6 @@ neo@arch:~$ ls -1 ~/projects
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 <!--END_SECTION:activity-->
-
-### 🌱 Latest Projects
-<!--START_SECTION:projects-->
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-<!--END_SECTION:projects-->
 
 ---
 
@@ -164,9 +157,7 @@ neo@arch:~$ fortune | cowsay -f tux
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=DevXtechnic&icon=0&color=0" alt="Visit Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=DevXtechnic&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 
