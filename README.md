@@ -73,30 +73,20 @@ neo@arch:~$ cat current_focus.txt
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
-A small set of active personal projects focused on web, automation, and Linux customization.
+```bash
+neo@arch:~$ ls -1 ~/projects
+```
 
----
+* **[dotfiles](https://github.com/DevXtechnic/dotfiles)**
+  > Personal Arch Linux configuration and development environment.
 
-### 🌐 DevXtechnic.github.io
-https://github.com/DevXtechnic/DevXtechnic.github.io
+* **[cpp-utils](https://github.com/DevXtechnic/cpp-utils)**
+  > Small performance-focused CLI utilities written in C++.
 
-Personal website / portfolio built as a central hub for projects and experiments.
-
----
-
-### 📺 Ytdaily
-https://github.com/DevXtechnic/Ytdaily
-
-Lightweight YouTube-based daily utility tool for simple automation and content tracking.
-
----
-
-### 🎧 hyprland-cava-underlay
-https://github.com/DevXtechnic/hyprland-cava-underlay
-
-Audio visualizer underlay for Hyprland using CAVA, designed for minimal and aesthetic desktop setups.
+* **[ai-scripts](https://github.com/DevXtechnic/ai-scripts)**
+  > Python automation experiments for AI workflows.
 
 ---
 
@@ -124,11 +114,11 @@ Audio visualizer underlay for Hyprland using CAVA, designed for minimal and aest
 ### 🔨 Recent Activity
 
 
+- [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection. (today)
 - [DevXtechnic/fish-prompt](https://github.com/DevXtechnic/fish-prompt) - My personal Fish shell prompt configuration using Oh My Posh, featuring powerline segments and Arch Linux styling. (1 week ago)
 - [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse) -  (1 month ago)
 - [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾 (1 month ago)
 - [DevXtechnic/Ytdaily](https://github.com/DevXtechnic/Ytdaily) - High-performance, automated YouTube feed downloader with TUI, SponsorBlock, and parallel download support. (2 months ago)
-- [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection. (3 months ago)
 
 
 ---
