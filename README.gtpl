@@ -11,7 +11,9 @@
 Minimalist systems • Arch Linux • C++ • Python • AI tools
 </p>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1471849836931190945) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikramgole.genius@keemail.me)
+<p align="center">
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1471849836931190945) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikramgole.genius@keemail.me) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bikramgole.genius@gmail.com)
+</p>
 
 ---
 
@@ -79,14 +81,14 @@ neo@arch:~$ cat current_focus.txt
 neo@arch:~$ ls -1 ~/projects
 ```
 
-* **[dotfiles](https://github.com/DevXtechnic/dotfiles)**
-  > Personal Arch Linux configuration and development environment.
+* **[DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io)**
+  > Personal portfolio and website.
 
-* **[cpp-utils](https://github.com/DevXtechnic/cpp-utils)**
-  > Small performance-focused CLI utilities written in C++.
+* **[Ytdaily](https://github.com/DevXtechnic/Ytdaily)**
+  > YouTube daily content automation or utility.
 
-* **[ai-scripts](https://github.com/DevXtechnic/ai-scripts)**
-  > Python automation experiments for AI workflows.
+* **[hyprland-cava-underlay](https://github.com/DevXtechnic/hyprland-cava-underlay)**
+  > Aesthetic CAVA visualizer underlay for Hyprland.
 
 ---
 
@@ -105,7 +107,7 @@ neo@arch:~$ ls -1 ~/projects
 <br/>
 
 ### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=DevXtechnic&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/trophy?username=DevXtechnic&theme=radical" />
 
 </div>
 
@@ -144,7 +146,7 @@ neo@arch:~$ fortune | cowsay -f tux
 
 ### ✍️ Random Dev Quote
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<img src="https://quotes-github-readme.appspot.com/api?type=horizontal&theme=radical">
 </p>
 
 ---
