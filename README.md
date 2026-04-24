@@ -73,21 +73,30 @@ neo@arch:~$ cat current_focus.txt
 
 ---
 
-# 📂 Projects
+## 📂 Projects
 
-```bash
-neo@arch:~$ ls -1 ~/projects
-```
+A small set of active personal projects focused on web, automation, and Linux customization.
 
-* **[dotfiles](https://github.com/DevXtechnic/dotfiles)**
-  > Personal Arch Linux configuration and development environment.
+---
 
-* **[cpp-utils](https://github.com/DevXtechnic/cpp-utils)**
-  > Small performance-focused CLI utilities written in C++.
+### 🌐 DevXtechnic.github.io
+https://github.com/DevXtechnic/DevXtechnic.github.io
 
-* **[ai-scripts](https://github.com/DevXtechnic/ai-scripts)**
-  > Python automation experiments for AI workflows.
+Personal website / portfolio built as a central hub for projects and experiments.
 
+---
+
+### 📺 Ytdaily
+https://github.com/DevXtechnic/Ytdaily
+
+Lightweight YouTube-based daily utility tool for simple automation and content tracking.
+
+---
+
+### 🎧 hyprland-cava-underlay
+https://github.com/DevXtechnic/hyprland-cava-underlay
+
+Audio visualizer underlay for Hyprland using CAVA, designed for minimal and aesthetic desktop setups.
 ---
 
 # 📈 GitHub Stats
