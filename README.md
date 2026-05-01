@@ -12,7 +12,8 @@ Minimalist systems • Arch Linux • C++ • Python • AI tools
 </p>
 
 <p align="center">
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1471849836931190945) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikramgole.genius@keemail.me) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bikramgole.genius@gmail.com)
+<a href="https://discord.com/users/1471849836931190945"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="mailto:bikramgole.genius@keemail.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -107,7 +108,7 @@ neo@arch:~$ ls -1 ~/projects
 <br/>
 
 ### 🏆 Trophies
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/trophy?username=DevXtechnic&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=DevXtechnic&theme=radical&no-frame=true" />
 
 </div>
 
@@ -150,7 +151,7 @@ neo@arch:~$ fortune | cowsay -f tux
 
 ### ✍️ Random Dev Quote
 <p align="center">
-<img src="https://quotes-github-readme.appspot.com/api?type=horizontal&theme=radical">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
 ---
