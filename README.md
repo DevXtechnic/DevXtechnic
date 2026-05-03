@@ -117,8 +117,8 @@ neo@arch:~$ ls -1 ~/projects
 ### 🔨 Recent Activity
 
 
-- [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection. (today)
-- [DevXtechnic/ojt10](https://github.com/DevXtechnic/ojt10) -  (3 days ago)
+- [DevXtechnic/wallpapers](https://github.com/DevXtechnic/wallpapers) - A personal, curated wallpaper collection. (1 day ago)
+- [DevXtechnic/ojt10](https://github.com/DevXtechnic/ojt10) -  (4 days ago)
 - [DevXtechnic/fish-prompt](https://github.com/DevXtechnic/fish-prompt) - My personal Fish shell prompt configuration using Oh My Posh, featuring powerline segments and Arch Linux styling. (2 weeks ago)
 - [DevXtechnic/Neopluse](https://github.com/DevXtechnic/Neopluse) -  (1 month ago)
 - [DevXtechnic/DevXtechnic.github.io](https://github.com/DevXtechnic/DevXtechnic.github.io) - Dive into my personal website, &#34;The Aura,&#34; a unique blend of AI insights, Linux adventures, and coding explorations. Expect interactive features, dynamic themes, and a dash of controlled chaos in this space-themed digital realm. A true reflection of my hacker spirit! 🚀🎨👾 (1 month ago)
